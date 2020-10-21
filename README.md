@@ -1,8 +1,8 @@
-# [Gamemakin](https://gamemak.in) UE4 Style Guide() {
+# [Manatea](https://www.manateaentertainment.com/) UE4 Style Guide() {
 
 *A mostly reasonable approach to Unreal Engine 4*
 
-Heavily inspired by the [Airbnb Javascript Style Guide](https://github.com/airbnb/javascript).
+Heavily inspired by the [Airbnb Javascript Style Guide](https://github.com/airbnb/javascript) and based on the [Gamemakin](https://gamemak.in) UE4 Style Guide().
 
 [![Analytics](https://ga-beacon.appspot.com/UA-80567399-1/repo?useReferrer)](#) ![#](https://img.shields.io/badge/lint-partial_support-yellow.svg)
 
